@@ -2,4 +2,20 @@
   height: 14rem;
 }
 
+.contenedor > *:not(:last-child) {
+  margin: 4rem 0;
+}
+
+footer p {
+  margin: 1rem;
+}
+
+footer {
+  margin-top: 4rem;
+}
+
+.card {
+  width: 19rem;
+}
+
 /*# sourceMappingURL=styles.css.map */
